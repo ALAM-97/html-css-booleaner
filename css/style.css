@@ -50,4 +50,25 @@ ul{
 
 .list{
     margin-top: 30px;
+    margin-bottom: 30px;
 }
+
+.table-header{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.table-blue-row{
+    background-color: #B1E5F2;
+}
+
+.venticinque{
+    width: 25%;
+    text-align: left;
+}
+
+.cinquanta{
+    width: 50%;
+    text-align: left;
+}
+
