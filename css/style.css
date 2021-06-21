@@ -53,6 +53,10 @@ ul{
     margin-bottom: 30px;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 .table-header{
     background-color: #20A9E5;
     color: white;
